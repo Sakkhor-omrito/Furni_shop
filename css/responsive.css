@@ -1,3 +1,8 @@
+@media(min-width:1200px) and (max-widhth:1399.98px){
+    .banner_click {
+    bottom: -2%;
+}
+}
 @media(min-width:992px) and (max-width:1199.98px){
     .banner_shape {
         position: absolute;
