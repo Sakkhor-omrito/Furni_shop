@@ -366,7 +366,7 @@
 }
 @media (max-width:575px){
    .customnav{
-    background-color:rgb(70, 211, 216);
+    background-color:#d6ede9;
     z-index: 999999;
     position: fixed;
     width: 100%;
