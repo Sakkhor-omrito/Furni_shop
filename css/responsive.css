@@ -404,6 +404,12 @@
     .logo_header h4 {
         font-size: 15px;
     }
+     .angle_up {
+        display: none !important;
+    }
+    .angle_down {
+        display: none!important;
+    }
     .banner_click {
         display: none;
     }
