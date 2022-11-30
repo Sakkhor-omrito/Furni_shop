@@ -407,6 +407,7 @@
     .hot_one h2{
         font-size: 35px;
         padding-bottom: 17px;
+        text-align:center;
     }
     .hot_one span {
         display: inline;
@@ -414,6 +415,7 @@
     .hot_one p {
         font-size: 14px;
         padding-bottom: 20px;
+        text-align:center;
     }
     .hot_top {
         margin:10px 0;
